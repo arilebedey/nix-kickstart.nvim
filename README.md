@@ -91,7 +91,7 @@ If you have Nix installed (with [flakes](https://nixos.wiki/wiki/Flakes) enabled
 you can test drive this by running:
 
 ```console
-nix run "github:nix-community/kickstart-nix.nvim"
+nix run "github:arilebedey/nix-kickstart.nvim"
 ```
 
 ## :books: Usage
